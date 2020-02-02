@@ -1,2 +1,1 @@
-# sseatua.github.io
-test
+# Du-UCSD.github.io
